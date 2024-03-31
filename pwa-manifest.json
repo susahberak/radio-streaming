@@ -17,12 +17,12 @@
     ],
     "screenshots": [
         {
-            "src": "img/screenshot-1.jpg",
+            "src": "img/radio.png",
             "sizes": "1000x1600",
             "type": "image/jpeg"
         },
         {
-            "src": "img/screenshot-2.jpg",
+            "src": "#",
             "sizes": "1000x1600",
             "type": "image/jpeg"
         }
@@ -34,6 +34,6 @@
     "start_url": ".",
     "url": "index.html",
     "scope": ".",
-    "lang": "fa-IR",
+    "lang": "id-EN",
     "dir": "rtl"
 }
