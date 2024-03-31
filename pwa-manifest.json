@@ -1,16 +1,16 @@
 {
-    "name": "RedCherry",
-    "short_name": "RedCherry",
-    "description": "RedCherry Simple PWA",
+    "name": "Radio Streaming",
+    "short_name": "Radio Streaming",
+    "description": "Radio Streaming 24 Jam",
     "icons": [
         {
-            "src": "img/fav-192.png",
+            "src": "img/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any maskable"
         },
         {
-            "src": "img/fav-512.png",
+            "src": "img/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
