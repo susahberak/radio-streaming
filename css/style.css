@@ -1,11 +1,30 @@
+footer {
+position: fixed;
+bottom: 0;
+right: 0;
+text-transform: uppercase;
+padding: 10px;
+font-family: Lato,sans-serif
+}
+footer p {
+letter-spacing: 3px;
+font-size: 10px
+}
+footer a {
+color: #aaa;
+text-decoration: none
+}
+footer a:hover{
+color: #7d7d7d
+}
 .reload-btn {
-    text-align: center;
-    background: #eee;
-    padding: 10px;
-    color: rgb(61, 61, 61);
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    width: 230px;
-    display: inline-block;
-    cursor: pointer;
+text-align: center;
+background: #eee;
+padding: 10px;
+color: rgb(61, 61, 61);
+border: 1px solid #ccc;
+border-radius: 4px;
+width: 230px;
+display: inline-block;
+cursor: pointer;
 }
